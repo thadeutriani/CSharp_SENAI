@@ -1,0 +1,15 @@
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\bin\Debug\net7.0\TrabalhoCSharp.exe
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\bin\Debug\net7.0\TrabalhoCSharp.deps.json
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\bin\Debug\net7.0\TrabalhoCSharp.runtimeconfig.json
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\bin\Debug\net7.0\TrabalhoCSharp.dll
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\bin\Debug\net7.0\TrabalhoCSharp.pdb
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.csproj.AssemblyReference.cache
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.AssemblyInfoInputs.cache
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.AssemblyInfo.cs
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.dll
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\refint\TrabalhoCSharp.dll
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.pdb
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\TrabalhoCSharp.genruntimeconfig.cache
+C:\Users\Evelyn\Desktop\E.Software\SENAI\CSharp\TRABALHO\TrabalhoCSharp\TrabalhoCSharp\obj\Debug\net7.0\ref\TrabalhoCSharp.dll
